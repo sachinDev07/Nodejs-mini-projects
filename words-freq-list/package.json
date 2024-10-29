@@ -1,0 +1,14 @@
+{
+    "name": "word-freq-list",
+    "version": "1.0.1",
+    "description": "A CLI tool to count word frequencies in a text file.",
+    "main": "bin/index.js",
+    "bin": {
+      "word-freq-list": "bin/index.js"
+    },
+    "type": "module",
+    "keywords": ["word frequency", "CLI", "word count", "text analysis"],
+    "author": "Sachin kumar",
+    "license": "MIT",
+    "dependencies": {}
+}
