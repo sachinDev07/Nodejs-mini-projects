@@ -1,0 +1,13 @@
+{
+  "name": "markdown-note-manager",
+  "version": "1.0.4",
+  "description": "CLI tool to manage markdown notes",
+  "main": "./bin/index.js",
+  "bin": {
+    "markdown-note-manager": "./bin/index.js"
+  },
+  "type": "module",
+  "dependencies": {},
+  "author": "Sachin kumar",
+  "license": "MIT"
+}
